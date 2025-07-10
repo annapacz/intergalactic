@@ -1,4 +1,0 @@
-#!/usr/bin/env sh
-. "$(dirname -- "$0")/_/husky.sh"
-
-pnpm tsm --require=./.ci/tsm-filter-warnings.js ./.ci/lint-commit-message.ts $1 
