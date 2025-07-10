@@ -1,7 +1,0 @@
-.paintedElement {
-  display: inline-block;
-  width: 16px;
-  height: 16px;
-  border-radius: var(--intergalactic-rounded-medium);
-  vertical-align: middle;
-}
