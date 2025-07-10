@@ -1,9 +1,0 @@
-:root {
-  --shadow-color: black;
-  --shadow: 0 0 0 var(--shadow-color);
-}
-
-SButton[theme='default'] {
-  background: #bada55;
-  box-shadow: var(--shadow);
-}
